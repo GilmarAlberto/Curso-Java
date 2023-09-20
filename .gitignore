@@ -7,3 +7,6 @@
 /OperadoresAritmeticos/build/
 
 .fake
+/SuperCalculadora/nbproject/private/
+/SuperCalculadora/build/
+/SuperCalculadora/dist/
