@@ -20,8 +20,6 @@ public class Desafio010 {
 
         System.out.println(String.format("%.2f Fahrenheit equivale a %.2f Celsius.", far, celsius));
 
-
-
         scan.close();
     }
     

@@ -1,14 +1,15 @@
 package Desafios;
 
+/*
+* 3. Faça um Programa que peça dois números e imprima a soma.
+*/
+
 import java.util.Scanner;
 
 public class Desafio004 {
 
     public static void main(String[] args){
-        /*
-         * 3. Faça um Programa que peça dois números e imprima a soma.
-         */
-
+        
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Digite o primeiro número: ");
