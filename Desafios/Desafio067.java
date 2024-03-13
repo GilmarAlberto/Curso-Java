@@ -21,6 +21,7 @@ public class Desafio067{
         }
 
         boolean primo = true;
+        System.out.print("Divisível por: ");
 
         for(int i = 2; i < num; i++){
             if(num % i == 0){
